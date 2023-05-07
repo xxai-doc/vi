@@ -7,3 +7,4 @@ Mã front-end của trang web là mã nguồn mở, hoan nghênh giúp tối ưu
 * [mã đầu cuối](https://github.com/xxai-art/web)
 * [Gói ngôn ngữ cho toàn bộ trang web](https://github.com/xxai-art/web/tree/main/i18n)
 * [Gói ngôn ngữ cho các mô-đun đăng nhập](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Trang web Tài liệu đa ngôn ngữ](https://github.com/xxai-doc)
